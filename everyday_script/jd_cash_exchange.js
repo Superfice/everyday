@@ -11,6 +11,7 @@ let exchangeAccounts = {
      "jd_482c2826cf589": 10,
 	"jd_6d7764058a414": 10,
 	"jd_RdllgXKHZciJ": 10,
+	"6345386-728743": 10,
  }
 
 !(async () => {
