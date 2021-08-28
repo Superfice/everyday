@@ -12,6 +12,7 @@ let exchangeAccounts = {
 	"jd_6d7764058a414": 10,
 	"jd_RdllgXKHZciJ": 10,
 	"6345386-728743": 10,
+	"jd_ZGOgyRVUcvmW": 10,
  }
 
 !(async () => {
