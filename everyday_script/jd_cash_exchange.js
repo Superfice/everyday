@@ -7,12 +7,12 @@ const $ = Env("签到领现金兑换")
 const ua = `jdltapp;iPhone;3.1.0;${Math.ceil(Math.random()*4+10)}.${Math.ceil(Math.random()*4)};${randomString(40)}`
 let cookiesArr = []
 let exchangeAccounts = {
-     "13055335797_p": 10,//十元
-     "jd_482c2826cf589": 10,
-	"jd_6d7764058a414": 10,
-	"jd_RdllgXKHZciJ": 10,
-	"6345386-728743": 10,
-	"jd_ZGOgyRVUcvmW": 10,
+     "13055335797_p": 2,//十元
+     "jd_482c2826cf589": 2,
+	"jd_6d7764058a414": 2,
+	"jd_RdllgXKHZciJ": 2,
+	"6345386-728743": 2,
+	"jd_ZGOgyRVUcvmW": 2,
  }
 
 !(async () => {
